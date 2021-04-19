@@ -1,0 +1,8 @@
+C:\Personal\DataStructure\RaftImplementation\bin\Debug\netstandard2.0\RaftImplementation.deps.json
+C:\Personal\DataStructure\RaftImplementation\bin\Debug\netstandard2.0\RaftImplementation.dll
+C:\Personal\DataStructure\RaftImplementation\obj\Debug\netstandard2.0\RaftImplementation.csprojAssemblyReference.cache
+C:\Personal\DataStructure\RaftImplementation\obj\Debug\netstandard2.0\RaftImplementation.AssemblyInfoInputs.cache
+C:\Personal\DataStructure\RaftImplementation\obj\Debug\netstandard2.0\RaftImplementation.AssemblyInfo.cs
+C:\Personal\DataStructure\RaftImplementation\bin\Debug\netstandard2.0\RaftImplementation.pdb
+C:\Personal\DataStructure\RaftImplementation\obj\Debug\netstandard2.0\RaftImplementation.dll
+C:\Personal\DataStructure\RaftImplementation\obj\Debug\netstandard2.0\RaftImplementation.pdb
